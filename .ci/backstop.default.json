@@ -34,6 +34,18 @@
       "delay": 1500,
       "misMatchThreshold" : 0.1
     }
+    {
+      "label": "Login Page",
+      "url": "/user/login",
+      "referenceUrl": "/user/login",
+      "hideSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 1500,
+      "misMatchThreshold" : 0.1
+    }
   ],
   "paths": {
     "bitmaps_reference": "backstop_data/bitmaps_reference",
