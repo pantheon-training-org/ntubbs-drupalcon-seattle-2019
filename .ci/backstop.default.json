@@ -33,7 +33,7 @@
       "readyEvent": null,
       "delay": 1500,
       "misMatchThreshold" : 0.1
-    }
+    },
     {
       "label": "Login Page",
       "url": "/user/login",
